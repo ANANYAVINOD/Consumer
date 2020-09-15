@@ -1,0 +1,97 @@
+{
+	"headerObj": {
+		"shop by category": {
+			"Fruits and vegetables": [
+				"Herb": [
+					"Lemon",
+					"Ginger"
+				],
+				"Fresh fruit",
+				"Organic",
+				"Exotic",
+				"Cuts"
+			],
+			"Milk and Milk Products": [
+				"Herb",
+				"Fresh fruit",
+				"Organic",
+				"Exotic",
+				"Cuts"
+			],
+			"Egg and Egg Products",
+			"Bread and Bakery": [
+				"Bread",
+				"Bread",
+				"Bread",
+				"Bread",
+				"Bread"
+			],
+			"Fruits and Vegetables": [
+				"Dropdown Link 5",
+				"Orange",
+				"Orange",
+				"Orange",
+				"Orange": [
+					"Orange",
+					"Orange",
+					"Orange"
+				]
+			]
+        },
+        "Select your location" : [
+            "Select your city to start shopping" : [1,2,3,4,5],
+            "Enter your are/apartment/pincode" : "  "
+        ]
+    },
+    "Featured Products" :[
+        "Product1,Image1, Price1",
+        "Product2,Image2, Price2",
+        "Product3,Image3, Price3",
+        "Product4,Image4, Price4"
+    ],
+    "Shop by Category" :[
+        "Milk and Milk products",
+        "Egg and Egg products",
+        "Fruits and vegetables",
+        "Bread and Bakery"
+    ],
+    "SlidingwindowObj" : [
+        "content1" : ["Data1","image1"],
+        "content2" : ["Data2","image2"]
+    ]
+    for(i=0;i<=2;i++){
+        x = SlidingwindowObj.content[i];
+    },
+    "Fruit and Vegetables" : [
+        "Name1,Price1,image1,discount1",
+        "Name2,Price2,image2,discount2",
+        "Name3,Price3,image3,discount3",
+        "Name4,Price4,image4,discount4",
+        "Name5,Price5,image5,discount5",
+        "Name6,Price6,image6,discount6",
+        "Name7,Price7,image7,discount8",
+        "Name8,Price8,image8,discount8"
+    ],
+    "Popular Brands" : [
+        "Image1",
+        "Image2",
+        "Image3",
+        "Image4"
+    ],
+    "Home Appliances" : [
+        "Name1,Price1,image1,discount1",
+        "Name2,Price2,image2,discount2",
+        "Name3,Price3,image3,discount3",
+        "Name4,Price4,image4,discount4",
+        "Name5,Price5,image5,discount5",
+        "Name6,Price6,image6,discount6",
+        "Name7,Price7,image7,discount8",
+        "Name8,Price8,image8,discount8"
+    ],
+    "Snacks and Branded Food" : [
+        "Name1,image1,discount1",
+        "Name2,image2,discount2",
+        "Name3,image3,discount3",
+        "Name4,image4,discount4"  
+    ]
+}
